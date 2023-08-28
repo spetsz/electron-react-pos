@@ -1,7 +1,7 @@
 Screenshots of the current interface :
 
 Login : 
-!(https://github.com/spetsz/electron-react-pos/blob/master/screenshots/login.PNG?raw=true)
+!(https://github.com/spetsz/electron-react-pos/blob/master/screenshots/login.png?raw=true)
 
 Cash Register :
 !(https://github.com/spetsz/electron-react-pos/blob/master/screenshots/register.PNG?raw=true)
