@@ -7,8 +7,8 @@ Cash Register :
 !(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/sell.png?raw=true)
 
 Inventory :
-!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/stock.PNG?raw=true)
+!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/stock.png?raw=true)
 
 Clients :
-!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/clients.PNG?raw=true)
+!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/clients.png?raw=true)
 
