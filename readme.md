@@ -4,7 +4,7 @@ Login :
 !(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/login.png?raw=true)
 
 Cash Register :
-!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/sell.PNG?raw=true)
+!(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/sell.png?raw=true)
 
 Inventory :
 !(https://github.com/spetsz/electron-react-pos/blob/main/screenshots/stock.PNG?raw=true)
