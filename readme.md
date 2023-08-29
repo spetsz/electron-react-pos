@@ -2,11 +2,11 @@ Screenshots of the current interface :
 
 Login : 
 
-![Login](https://github.com/spetsz/electron-react-pos/blob/main/screenshots/login.png?raw=true)
+![Login](https://github.com/spetsz/electron-react-pos/blob/main/screenshots/login.gif?raw=true)
 
 Cash Register :
 
-![Cash](https://github.com/spetsz/electron-react-pos/blob/main/screenshots/sell.png?raw=true)
+![Cash](https://github.com/spetsz/electron-react-pos/blob/main/screenshots/sell.gif?raw=true)
 
 Inventory :
 
